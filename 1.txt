@@ -1,0 +1,2 @@
+python gui.py --l=127 --h=128       
+cd Cryptography-Project; python gui.py   
